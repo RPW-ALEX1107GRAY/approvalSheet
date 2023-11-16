@@ -36,9 +36,9 @@
 
   ##Daveon --- OCTOBER 16, 2023
 
-7C42ECD328-M1107==  ##Mako --- OCTOBER 17, 2023
+  ##Mako --- OCTOBER 17, 2023
 
-AA58D09801-M1107==  ##Karbon --- OCTOBER 17, 2023
+  ##Karbon --- OCTOBER 17, 2023
 
 88CD6DD2D9-M1107==  ##Jio Revrio --- OCTOBER 20, 2023
 
