@@ -51,8 +51,6 @@
 
   ##Deyn --- OCTOBER 23, 2023
 
-  ##Julia --- OCTOBER 25, 2023
-
   ##Sakura --- OCTOBER 24, 2023
 
   ##Sea --- OCTOBER 26, 2023
@@ -82,5 +80,5 @@
 
 0796DDEE9E-M1107==  ##Shei --- DECEMBER 03, 2023
 
-95DCE76777-M1107==  ## Qeizil -- December 4, 2023
+95DCE76777-M1107==  ## Qeizil / Julia -- December 4, 2023
 
