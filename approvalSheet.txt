@@ -57,8 +57,6 @@
 
   ##Sea --- OCTOBER 26, 2023
 
-0796DDEE9E-M1107==  ##Shei --- DECEMBER 03, 2023
-
   ##Yshee --- OCTOBER 26, 2023
 
   #Iona --- OCTOBER 26, 2023
@@ -71,12 +69,18 @@
 
   ##Azvi --- November 2, 2023
 
+
+  ##Cyrame De Asis --- Novemberr 16, 2023
+
 70C168F621-M4786==  ##Cedric --- November 7, 2023
 
 01C692E052-GENERATOR==  ##Rei Zenoch --- November 7,2023
 
 3BCA7BF12B-M1107==  ##Brent --- November 11, 2023
 
-20236B6232-M1107==  ##Yuan Alterno --- November 16, 2023 - 15 days only
+  ##Yuan Alterno --- November 16, 2023 - 15 days only
 
-  ##Cyrame De Asis --- Novemberr 16, 2023
+0796DDEE9E-M1107==  ##Shei --- DECEMBER 03, 2023
+
+95DCE76777-M1107==  ## Qeizil -- December 4, 2023
+
