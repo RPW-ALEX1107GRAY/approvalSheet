@@ -70,9 +70,9 @@
 
   ##Cyrame De Asis --- Novemberr 16, 2023
 
-70C168F621-M4786==  ##Cedric --- November 7, 2023
+  ##Cedric --- November 7, 2023
 
-01C692E052-GENERATOR==  ##Rei Zenoch --- November 7,2023
+  ##Rei Zenoch --- November 7,2023
 
 3BCA7BF12B-M1107==  ##Brent --- November 11, 2023
 
