@@ -88,7 +88,7 @@ B96B0B6BCE-M1107==
 
   ##Yuan Alterno --- November 16, 2023 - 15 days only
 
-0796DDEE9E-M1107==  ##Shei --- DECEMBER 03, 2023
+  ##Shei --- DECEMBER 03, 2023
 
-95DCE76777-M1107==  ## Qeizil / Julia -- December 4, 2023
+  ## Qeizil / Julia -- December 4, 2023
 
